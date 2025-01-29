@@ -1,3 +1,6 @@
+# Chitak
+Chintak is a cutting-edge VS Code extension designed to provide intelligent code completions directly on your local system without requiring an internet connection.
+
 # chintak README
 
 This is the README for your extension "chintak". After writing up a brief description, we recommend including the following sections.
@@ -69,3 +72,4 @@ You can author your README using Visual Studio Code. Here are some useful editor
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+
